@@ -6,12 +6,12 @@ The Stock Agent API is an AI-driven application that fetches the latest stock ma
 ## Project Structure
 ```
 stock_agent/
-├── app.py                # Main application file
-├── requirements.txt      # Dependencies
-├── README.md             # Project documentation
-├── stock_fetcher.py      # Module to fetch stock prices
-├── agent.py              # LangChain agent implementation
-└── utils.py              # Utility functions (if needed)
+├── app.py                
+├── requirements.txt    
+├── README.md           
+├── stock_fetcher.py      
+├── agent.py             
+└── utils.py             
 ```
 
 ## Setup
