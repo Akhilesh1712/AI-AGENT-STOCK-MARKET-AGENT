@@ -18,7 +18,7 @@ stock_agent/
 
 1. Clone the repository or download the project files.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Akhilesh1712/AI-AGENT-STOCK-MARKET-AGENT.git
    ```
 2. Navigate to the project directory:
    ```bash
